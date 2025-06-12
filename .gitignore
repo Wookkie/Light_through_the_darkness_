@@ -1,0 +1,25 @@
+# Unity project folders to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Unity build files
+*.apk
+*.aab
+*.exe
+*.zip
+
+# IDE files
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
